@@ -1,12 +1,6 @@
-.clickme{
-    background-color: black;
-    color: white;
-}
-.noclickme{
+.containter .text{
     background-color: yellow;
-}
-.clickme,
-.noclickme {
-    font-size: 28px;
-    font-family: helvetica, 'Times New Roman', sans-serif;
+    color: red;
+    font-size: 20px;
+    text-align: center;
 }
