@@ -1,4 +1,18 @@
-.para,
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+}
+
+.alternate {
+  box-sizing: border-box;
+}
+    
+
+/* .para,
 .small-para {
   color: hsl(0, 100%, 50%);
 }
@@ -7,11 +21,11 @@
     font-size: 22px;
   }
 
-p.small-para {
+.small-para {
   font-size: 14px;
 }
 
-.confirm {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
@@ -31,4 +45,4 @@ p.small-para {
 div.text {
   color: green;
   font-size: 22px;
-}
+} */
